@@ -2,6 +2,6 @@ package mouse
 
 import "fmt"
 
-func mouse() {
+func Mouse() {
 	fmt.Println("i am mouse")
 }
